@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Project1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  snake.cpp
+c:\users\廖紘揚\onedrive\桌面\110-1 final _project\project1\snake.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Project1.vcxproj -> C:\Users\廖紘揚\OneDrive\桌面\110-1 final _project\Debug\snake.exe
